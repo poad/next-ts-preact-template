@@ -2,6 +2,7 @@ import React from 'react';
 import Head from 'next/head';
 import { CssBaseline, ThemeProvider } from '@mui/material';
 import theme from '../styles/theme';
+import '../styles/globals.css';
 
 const App = (props) => {
   const { Component, pageProps } = props;

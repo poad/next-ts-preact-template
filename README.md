@@ -1,1 +1,1 @@
-# next-ts-template
+# next-ts-preact-template
