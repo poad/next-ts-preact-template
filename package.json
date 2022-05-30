@@ -33,7 +33,7 @@
   "devDependencies": {
     "@next/bundle-analyzer": "12.1.5",
     "@types/node": "*",
-    "@types/react": "^17",
+    "@types/react": "*",
     "@typescript-eslint/eslint-plugin": "*",
     "@typescript-eslint/parser": "*",
     "eslint": "*",
