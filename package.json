@@ -20,7 +20,7 @@
     "@mui/material": "*",
     "@mui/styles": "*",
     "autoprefixer": "*",
-    "next": "12.1.5",
+    "next": "*",
     "postcss": "*",
     "preact": "*",
     "preact-render-to-string": "*",
@@ -31,7 +31,7 @@
     "web-vitals": "*"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "12.1.5",
+    "@next/bundle-analyzer": "*",
     "@types/node": "*",
     "@types/react": "*",
     "@typescript-eslint/eslint-plugin": "*",
@@ -40,7 +40,7 @@
     "eslint-config-airbnb-base": "*",
     "eslint-config-airbnb-typescript": "*",
     "eslint-config-import": "*",
-    "eslint-config-next": "12.1.5",
+    "eslint-config-next": "*",
     "eslint-import-resolver-typescript": "*",
     "eslint-plugin-flowtype": "*",
     "eslint-plugin-import": "*",
@@ -48,7 +48,7 @@
     "eslint-plugin-react": "*",
     "eslint-plugin-react-hooks": "*",
     "next-compose-plugins": "*",
-    "next-plugin-preact": "*",
+    "next-plugin-preact": "^3.0.7",
     "next-transpile-modules": "*",
     "rimraf": "*",
     "typescript": "*"
