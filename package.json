@@ -49,7 +49,7 @@
     "eslint-plugin-react": "*",
     "eslint-plugin-react-hooks": "*",
     "next-compose-plugins": "*",
-    "next-plugin-preact": "^3.0.7",
+    "next-plugin-preact": "*",
     "next-transpile-modules": "*",
     "rimraf": "*",
     "typescript": "*"
