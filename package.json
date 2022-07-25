@@ -20,7 +20,7 @@
     "@mui/material": "*",
     "@mui/styles": "*",
     "autoprefixer": "*",
-    "next": "*",
+    "next": "^12",
     "postcss": "*",
     "preact": "*",
     "preact-render-to-string": "*",
@@ -31,7 +31,7 @@
     "web-vitals": "*"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "*",
+    "@next/bundle-analyzer": "^12",
     "@types/node": "*",
     "@types/react": "*",
     "@typescript-eslint/eslint-plugin": "*",
@@ -40,7 +40,7 @@
     "eslint-config-airbnb-base": "*",
     "eslint-config-airbnb-typescript": "*",
     "eslint-config-import": "*",
-    "eslint-config-next": "*",
+    "eslint-config-next": "^12",
     "eslint-config-prettier": "*",
     "eslint-import-resolver-typescript": "*",
     "eslint-plugin-flowtype": "*",

@@ -315,7 +315,7 @@
     prop-types "^15.8.1"
     react-is "^18.2.0"
 
-"@next/bundle-analyzer@*":
+"@next/bundle-analyzer@^12":
   version "12.2.3"
   resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-12.2.3.tgz#8b4b934d28c09b9c11c4a074fbcc444402c8e017"
   integrity sha512-tRgyo5afC02eofvnN9IerUvTJpxV+eQH4S02hc1U4oJJOhpHbwRinFUE3u4SNWbT5wSFofv1tnw5rYhyX7W8wQ==
@@ -1191,7 +1191,7 @@ eslint-config-import@*:
   resolved "https://registry.yarnpkg.com/eslint-config-import/-/eslint-config-import-0.13.0.tgz#082f3055e7ff651010526d35ac9a28ace438a544"
   integrity sha512-aKVq0ujBTsQaUzucOK5aRz40oTU/lr8MfF7I05eF8iGBQW/Jq49vQxxy8qiLcut96UKuGhOCn6AY/jYk/ZaaKQ==
 
-eslint-config-next@*:
+eslint-config-next@^12:
   version "12.2.3"
   resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-12.2.3.tgz#468fe9756ccbf7e4452139062db5b4e6557dc885"
   integrity sha512-xAQqAqwa2bu9ZMRypz58ym4tNCo22Wc6LuoLpbpf3yW5c4ZkVib9934AgGDDvh2zKrP56Z6X0Pp6gNnuuZzcRw==
@@ -2181,7 +2181,7 @@ next-transpile-modules@*:
     enhanced-resolve "^5.7.0"
     escalade "^3.1.1"
 
-next@*:
+next@^12:
   version "12.2.3"
   resolved "https://registry.yarnpkg.com/next/-/next-12.2.3.tgz#c29d235ce480e589894dfab3120dade25d015a22"
   integrity sha512-TA0tmSA6Dk6S6kfvCNbF7CWYW8468gZUxr/3/30z4KvAQbXnl2ASYZElVe7q/hBW/1F1ee0tSBlHa4/sn+ZIBw==
